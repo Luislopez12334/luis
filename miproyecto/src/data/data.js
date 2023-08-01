@@ -24,7 +24,7 @@ export const data = {
     {
       degree: "Developer",
       description:
-        " I'm qualified to develop in differents programation languages",
+        " I am trained to develop in different programming languages, taking into account my great performance in the workplace as a staff.",
       endDate: "Jun 2023",
       institution: "SENA",
       startDate: "April 2022",
@@ -32,10 +32,10 @@ export const data = {
   ],
   experience: [
     {
-      company: "PugStar",
+      company: "Google",
       endDate: "Present",
       jobDescription:
-        "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
+        "As a programmer, I am characterized by the excellent work that I have done and I also like to accomplish everything that I set my mind to, I perform in carrying out good group work.",
       jobTitle: "Backend",
       startDate: "Jun 2023",
     },
